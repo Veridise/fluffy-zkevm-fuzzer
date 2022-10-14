@@ -41,6 +41,7 @@ After letting the fuzzer run for at least a few hours, run the following command
 
 ```
 cp -r openethereum-fluffy-fuzzing/crates/evmfuzz/fuzz/corpus/fuzz_target_1 zkevm-circuits/integration-tests/fuzzing_inputs
+cd ./zkevm-circuits/integration-tests
 ./fuzz_run.sh test_cases 2>&1 | tee fuzzer_output
 ```
 
