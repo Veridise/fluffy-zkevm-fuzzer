@@ -1,8 +1,6 @@
 fluffy-zkevm-fuzzer
 ===================
 
-https://github.com/snuspl/fluffy
-
 This repo describes how you can use a simplified version of the 
 [Fluffy fuzzer](https://github.com/snuspl/fluffy) to test the implementation of 
 [Scroll's zkEVM](https://github.com/scroll-tech/zkevm-circuits).
