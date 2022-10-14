@@ -1,0 +1,3 @@
+[submodule "openethereum-fluffy-fuzzing"]
+	path = openethereum-fluffy-fuzzing
+	url = git@github.com:Veridise/openethereum.git
