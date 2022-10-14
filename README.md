@@ -22,7 +22,7 @@ This fuzzer can only detect crashes.
 ### Download
 
 ```
-git clone --recurse-submodules -j8 
+git clone --recurse-submodules -j8 git@github.com:Veridise/fluffy-zkevm-fuzzer.git
 ```
 
 ### Run Fluffy on openethereum
