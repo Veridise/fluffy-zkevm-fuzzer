@@ -1,3 +1,6 @@
 [submodule "openethereum-fluffy-fuzzing"]
 	path = openethereum-fluffy-fuzzing
 	url = git@github.com:Veridise/openethereum.git
+[submodule "zkevm-circuits"]
+	path = zkevm-circuits
+	url = git@github.com:Veridise/zkevm-circuits.git
